@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------
+Maximum Sharpe Ratio Portfolio Allocation
+Annualised Return: 0.21
+Annualised Volatility: 0.41
+            BBDC4  ITBU4  MGLU3  PETR4  VALE3
+allocation  35.38  36.72   0.03  26.59   1.28
+--------------------------------------------------------------------------------
+Minimum Volatility Portfolio Allocation
+Annualised Return: 0.15
+Annualised Volatility: 0.35
+            BBDC4  ITBU4  MGLU3  PETR4  VALE3
+allocation   7.98  60.99   1.16   1.01  28.86
